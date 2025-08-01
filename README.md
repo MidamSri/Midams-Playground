@@ -60,6 +60,3 @@ http://localhost:3000/
 - Secrets loaded securely via `.env`  
 
 ---
-
-
-Made with care by **Midam**
