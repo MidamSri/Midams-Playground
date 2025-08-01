@@ -1,0 +1,12 @@
+# --- FastAPI server dependencies ---
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+
+# --- Gemini / Google GenAI SDK ---
+google-generativeai==0.4.1
+
+# --- PostgreSQL driver ---
+psycopg2-binary==2.9.9
+
+# --- Environment variable management ---
+python-dotenv==1.0.1
